@@ -1,29 +1,30 @@
-h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: Normal;
+body {
+    background-color: black;
+    text-align: center;
+    font-family: "Verdana", sans-serif;
+    color: white;
+  }
+  
+  .cta {
+    color: aquamarine;
+    font-size: 16px;
+  }
+  
+  h1 {
     font-size: 50px;
-    color: #ffffff
-    text-align: center;
-}
-
-h2 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 300;
+    font-weight: normal;
+  }
+  
+  h2 {
     font-size: 42px;
-}
-
-.body { 
-    background-color: #000000;
-    text-align: center;
-}
-
-.footer {
-    background-color: grey;
-    text-align: right;
-}
-
-.subtext {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+  }
+  
+  p {
     font-size: 21px;
-    color: grey;
-}
+    color: gray;
+  }
+  
+  .footer {
+    text-align: right;
+  } 
